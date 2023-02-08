@@ -1,0 +1,1 @@
+{script src="js/addons/sd_two_factor_auth/func.js"}

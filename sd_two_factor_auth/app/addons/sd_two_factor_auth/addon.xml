@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>sd_two_factor_auth</id>
+    <version>4.15.2.0</version>
+    <priority>1200</priority>
+    <position>10</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <queries>
+        <item for="install">
+            ALTER TABLE `?:users` ADD `verify_code` VARCHAR(11) NULL DEFAULT NULL AFTER `janrain_identifier`;
+        </item>
+        <item for="uninstall">ALTER TABLE `?:users` DROP `verify_code`;</item>
+    </queries>
+</addon>
