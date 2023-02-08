@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::sd_two_factor_auth"
+msgid "Simtech Development: Two-factor authentication"
+msgstr "Simtech Development: Двухфакторная аутентификация"
+
+msgctxt "Addons::description::sd_two_factor_auth"
+msgid "Adds two-factor authentication"
+msgstr "Добавляет двухфакторную аутентификацию"
+
+msgctxt "Languages::sd_two_factor_auth.enter_code_from_email"
+msgid "To complete the authorization, enter the code sent to the mail"
+msgstr "Чтобы завершить авторизацию введите код, отправленный на почту"
+
+msgctxt "Languages::sd_two_factor_auth.rest_time_for_entering_code"
+msgid "Remaining time to confirm email"
+msgstr "Оставшееся время для подтверждения email"
+
+msgctxt "Languages::sd_two_factor_auth.verification_code"
+msgid "Verification code"
+msgstr "Проверочный код"
+
+msgctxt "Languages::sd_two_factor_auth.send_code_again"
+msgid "Send code again"
+msgstr "Отправить код еще раз"
+
+msgctxt "Languages::sd_two_factor_auth.resend_code_text"
+msgid "You can resend the code. Remaining attempts:"
+msgstr "Вы можете отправить код повторно. Осталось попыток:"
+
+msgctxt "Languages::sd_two_factor_auth.confirmation"
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+msgctxt "Languages::sd_two_factor_auth.verify_code.title"
+msgid "Account Login Confirmation"
+msgstr "Подтверждение входа в аккаунт"
+
+msgctxt "Languages::sd_two_factor_auth.verify_code"
+msgid "<p>You have requested a one-time code to sign in to your account. Here is your code:</p><p><strong><code>[password]</code></strong></p><p>Don't share it with anyone. If you did not request the code, then ignore this message. No one can log into your account without a password or access to your email.</p>"
+msgstr "<p>Вы запросили одноразовый код для входа в учётную запись. Вот ваш код:</p><p><strong><code>[password]</code></strong></p><p>Не сообщайте его никому. Если вы не запрашивали код, то не обращайте внимания на это сообщение. Никто не сможет войти в вашу учётную запись без пароля или доступа к вашей почте.</p>"
+
+msgctxt "Languages::sd_two_factor_auth.enter_email_password_again"
+msgid "You have requested a password 3 times, you need to enter your email and password again"
+msgstr "Вы запросили пароль 3 раза, вам требуется снова ввести email и пароль"
+

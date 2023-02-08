@@ -1,0 +1,1 @@
+{$company_data.company_name nofilter}: {__("sd_two_factor_auth.verify_code.title")}
