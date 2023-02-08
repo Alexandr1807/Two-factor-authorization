@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Languages::yandex_delivery_v3.upgrade_notification.title"
+msgid "Yandex Delivery Aggregator shut down, shipping methods disabled"
+msgstr "Yandex Delivery Aggregator shut down, shipping methods disabled"
+
+msgctxt "Languages::yandex_delivery_v3.upgrade_notification.message"
+msgid "Yandex Delivery used to have the Aggregator service that allowed you to manage shipping with various companies in a single dashboard. Yandex shut down that service on June 18, 2022. Your store still had shipping methods that relied on Yandex Delivery Aggregator for rate calculation. Because those shipping methods will no longer work, we've changed their status to \"Disabled\"."
+msgstr "Yandex Delivery used to have the Aggregator service that allowed you to manage shipping with various companies in a single dashboard. Yandex shut down that service on June 18, 2022. Your store still had shipping methods that relied on Yandex Delivery Aggregator for rate calculation. Because those shipping methods will no longer work, we've changed their status to \"Disabled\"."

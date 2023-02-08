@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.2/upgrade.po\n"
+"X-Crowdin-File-ID: 7074\n"
+"PO-Revision-Date: 2022-10-11 10:43\n"
+
+msgctxt "Languages::yandex_delivery_v3.upgrade_notification.title"
+msgid "Yandex Delivery Aggregator shut down, shipping methods disabled"
+msgstr "Yandex Delivery Aggregator כבה, שיטות המשלוח מושבתות"
+
+msgctxt "Languages::yandex_delivery_v3.upgrade_notification.message"
+msgid "Yandex Delivery used to have the Aggregator service that allowed you to manage shipping with various companies in a single dashboard. Yandex shut down that service on June 18, 2022. Your store still had shipping methods that relied on Yandex Delivery Aggregator for rate calculation. Because those shipping methods will no longer work, we've changed their status to \"Disabled\"."
+msgstr "בעבר היה Yandex Delivery שירות Aggregator שאיפשר לך לנהל משלוחים עם חברות שונות בלוח מחוונים אחד. Yandex סגרה את השירות הזה ב-18 ביוני 2022. לחנות שלך עדיין היו שיטות משלוח שהסתמכו על Yandex Delivery Aggregator לחישוב התעריף. מכיוון ששיטות המשלוח האלה לא יפעלו יותר, שינינו את הסטטוס שלהן ל\"מושבת\"."
+

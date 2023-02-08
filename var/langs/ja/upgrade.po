@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.15.2/upgrade.po\n"
+"X-Crowdin-File-ID: 7074\n"
+"PO-Revision-Date: 2022-10-11 10:43\n"
+
+msgctxt "Languages::yandex_delivery_v3.upgrade_notification.title"
+msgid "Yandex Delivery Aggregator shut down, shipping methods disabled"
+msgstr "Yandex Delivery Aggregatorが停止、配送方法が無効に"
+
+msgctxt "Languages::yandex_delivery_v3.upgrade_notification.message"
+msgid "Yandex Delivery used to have the Aggregator service that allowed you to manage shipping with various companies in a single dashboard. Yandex shut down that service on June 18, 2022. Your store still had shipping methods that relied on Yandex Delivery Aggregator for rate calculation. Because those shipping methods will no longer work, we've changed their status to \"Disabled\"."
+msgstr "Yandex Deliveryは、かつて様々な会社との配送を一つのダッシュボードで管理できる「Aggregator」サービスを提供していました。Yandexは2022年6月18日にそのサービスを停止しています。あなたのECサイトには、料金計算をYandex Delivery Aggregatorに依存する配送方法が残っていました。それらの配送方法は今後機能しなくなるため、ステータスを「無効」に変更しました。"
+
